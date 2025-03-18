@@ -1,9 +1,0 @@
-# Dependencies for development environment
-dependencies:
-  - python=3.12
-  - pip
-  - pip:
-    - black
-    - pylint
-    - isort
-    - pytest
